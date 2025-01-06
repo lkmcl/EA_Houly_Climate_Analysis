@@ -3,6 +3,7 @@
 **All repository code and future direction of research is the property of Environment Analytics and currently cannot be publicly distributed** (Publications pending with Logan McLaurin as primary author)
 
 **Author**: Logan McLaurin
+
 This repository highlights research presented at the 2023 and 2022 NCSU Summer Symposiums and the 2022 Kenan Institute for Engineering, Technology & Science (KIETS) Climate Symposium.
 Research was completed for Environment Analytics, conducted in collaboration with the Department of Marine, Earth, and Atmospheric Sciences and the Center for Geospatial Analytics at North Carolina State University.
 
