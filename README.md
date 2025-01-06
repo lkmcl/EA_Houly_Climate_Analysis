@@ -1,6 +1,6 @@
 # Historical Climate Change Data Project
 
-**All repository code and future direction of research is the property of Environment Analytics and currently cannot be publicly distributed due to research group policies, intellectual property concern, and ethical considerations** (Publications pending with Logan McLaurin as primary author)
+**All repository code and future direction of research is the property of Environment Analytics and currently cannot be publicly distributed due to research group policies, intellectual property concerns, and ethical considerations** (Publications pending with Logan McLaurin as primary author)
 
 **Author**: Logan McLaurin
 
